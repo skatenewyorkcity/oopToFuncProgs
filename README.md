@@ -3,4 +3,4 @@ Various Functional programming language implementations converted from an Object
 
 C++ to Scheme, Haskell & Prolog.
 
-Programs written compute the number of instances and occurrences of elements within a list
+These programs calculate the total number of elements within a list and the number of occurrences of each element as well
